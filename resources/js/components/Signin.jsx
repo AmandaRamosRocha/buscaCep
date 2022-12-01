@@ -14,7 +14,7 @@ const Signin = () => {
                 <input type='password' placeholder=' Confirme a senha' />
                 <button>Registrar-se</button>
                 <h4>ou</h4>
-                <button><a href="/login">Login</a></button>
+                <a href="/login"><button>Login</button></a>
             </div>
         </div>
     )
